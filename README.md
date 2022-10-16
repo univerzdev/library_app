@@ -1,5 +1,7 @@
 # Library App
 
+App for managing books in the library.
+
 ## Available Scripts
 
 ## Backend
